@@ -69,16 +69,16 @@ A personal finance management app that helps users track their daily expenses an
 I’m always open to exciting opportunities and collaborations. Feel free to reach out if you want to connect or work together on a project!
 
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923119969859)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-khabab-0b5349226/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-khabab)
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/https://www.facebook.com/khabab.khattak)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/khubii_khattak/)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/khubii_khattak)
 
 ---
 
 ## 📬 How to Reach Me
 
-- **Email**: [your.email@example.com](muhammad.khabab.official@gmail.com)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-khabab-0b5349226/)
+- **Email**: [muhammad.khabab.official@gmail.com](muhammad.khabab.official@gmail.com)
+- **LinkedIn**: [https://linkedin.com/in/https://www.linkedin.com/in/muhammad-khabab](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-khabab)
 
 ---
 
@@ -129,12 +129,3 @@ You can click the Preview link to take a look at your changes.
 If you need any help with Flutter projects or just want to chat about tech, don’t hesitate to reach out. Let’s build something great together!
 
 ---
-
-### How to Add this README to Your Profile
-
-1. **Go to your profile repository** (typically named `Muhammadkhabab`).
-2. **Edit the `README.md`** file, replacing the existing content with this updated version.
-3. **Update the placeholder links** with your actual WhatsApp, LinkedIn, and project URLs.
-4. **Commit the changes**, and your new profile will be live!
-
-By using this README, you're presenting yourself professionally, showcasing your work, and making it easier for potential collaborators and employers to connect with you.
