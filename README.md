@@ -68,31 +68,46 @@ A personal finance management app that helps users track their daily expenses an
 
 I’m always open to exciting opportunities and collaborations. Feel free to reach out if you want to connect or work together on a project!
 
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_PROFILE)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_PROFILE)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923119969859)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-khabab-0b5349226/)
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/https://www.facebook.com/khabab.khattak)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/khubii_khattak/)
 
 ---
 
 ## 📬 How to Reach Me
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- **Email**: [your.email@example.com](muhammad.khabab.official@gmail.com)
+- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-khabab-0b5349226/)
+
+---
+
+Here is your updated **Achievements & Certifications** section, formatted and ready to be added to your GitHub README file:
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- **Google Flutter Developer** Certification
-- **Responsive Web Design** Certification by freeCodeCamp
-- Completed the **Dart and Flutter Bootcamp** by Udemy
+- **Flutter Developer** - Google  
+  _(Certification in Flutter app development)_
+
+- **Promot Engineering** - Coursera (Course Era)  
+  _(Comprehensive certification on engineering promotion techniques)_
+
+- **Project Management** - Coursera (Google)  
+  _(Project management fundamentals and advanced techniques by Google)_
+
+- **Generative AI** - Coursera  
+  _(Understanding the application and development of AI-driven systems)_
+
+- **App Development** - KPITB (Khyber Pakhtunkhwa Information Technology Board)  
+  _(Training in cross-platform app development using Flutter and other tools)_
 
 ---
 
 ## 🤝 Collaborate with Me
 
-I’m always looking to collaborate on interesting projects, particularly in **Flutter app development**. Whether you're building an app from scratch, need help with API integration, or require assistance in app design, I’m happy to collaborate.
+I’m always looking to collaborate on interesting projects, particularly in **Flutter app development** and **AI Applications**  . Whether you're building an app from scratch, need help with API integration, or require assistance in app design, I’m happy to collaborate.
 
 ---
 
@@ -117,7 +132,7 @@ If you need any help with Flutter projects or just want to chat about tech, don�
 
 ### How to Add this README to Your Profile
 
-1. **Go to your profile repository** (typically named `Muhammadkhabab/Muhammadkhabab`).
+1. **Go to your profile repository** (typically named `Muhammadkhabab`).
 2. **Edit the `README.md`** file, replacing the existing content with this updated version.
 3. **Update the placeholder links** with your actual WhatsApp, LinkedIn, and project URLs.
 4. **Commit the changes**, and your new profile will be live!
