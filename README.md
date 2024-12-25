@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Muhammad Khabab!
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+Muhammad+Khabab's+GitHub+Profile) <!-- You can replace this placeholder with a custom banner -->
+![Banner]![IMG_3556 (2)](https://github.com/user-attachments/assets/b71fbd30-77f3-4954-af54-c1e82e1bac16)
+) <!-- You can replace this placeholder with a custom banner -->
 
 I’m a **Flutter Developer** with a passion for building cross-platform mobile applications. I focus on writing clean, efficient code and creating user-friendly, visually appealing apps that work seamlessly across iOS and Android platforms.
 
