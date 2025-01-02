@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadkhabab" alt="muhammadkhabab" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/khababkhattak2" target="blank"><img src="https://img.shields.io/twitter/follow/khababkhattak2?logo=twitter&style=for-the-badge" alt="khababkhattak2" /></a> </p>
+
 - 🌱 I’m currently learning **Flutter Advance,Nodejs,AI**
 
 - 💬 Ask me about **Flutter,Nodejs,AI**
@@ -13,8 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/khababkhattak2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khababkhattak2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad khabab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad khabab" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad khabab khattak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad khabab khattak" height="30" width="40" /></a>
+<a href="https://instagram.com/m_khabab_khattak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_khabab_khattak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
