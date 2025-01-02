@@ -1,132 +1,104 @@
-# 👋 Hi, I’m Muhammad Khabab!
+👋 Hi, I’m Muhammad Khabab!
 
-![Banner]![IMG_3556 (2)](https://github.com/user-attachments/assets/b71fbd30-77f3-4954-af54-c1e82e1bac16)
-) <!-- You can replace this placeholder with a custom banner -->
+I’m a Flutter Developer with a passion for building cross-platform mobile applications. I focus on writing clean, efficient code and creating user-friendly, visually appealing apps that work seamlessly across iOS and Android platforms.
 
-I’m a **Flutter Developer** with a passion for building cross-platform mobile applications. I focus on writing clean, efficient code and creating user-friendly, visually appealing apps that work seamlessly across iOS and Android platforms.
+👨‍💻 About Me
 
----
+🔭 Current Focus: Developing Flutter apps, exploring API integrations, and honing my skills in UI/UX design.
 
-## 👨‍💻 About Me
+🌱 Currently Learning: Advanced Flutter animations, state management with Riverpod and Bloc, and enhancing backend skills with Node.js.
 
-- 🔭 **Current Focus**: Developing Flutter apps, exploring API integrations, and honing my skills in UI/UX design.
-- 🌱 **Currently Learning**: Advanced Flutter animations, state management with **Riverpod** and **Bloc**, and enhancing backend skills with **Node.js**.
-- 💬 **Ask me about**: Flutter development, mobile UI/UX design, and app optimization strategies.
-- ⚡ **Fun Fact**: When I’m not coding, you can find me sketching ideas for new apps or solving coding puzzles.
+💬 Ask me about: Flutter development, mobile UI/UX design, and app optimization strategies.
 
----
+⚡ Fun Fact: When I’m not coding, you can find me sketching ideas for new apps or solving coding puzzles.
 
-## 🚀 Tech Stack
+🚀 Tech Stack
 
-Here are the key technologies and tools I work with:
+Languages & Frameworks
 
-### Languages & Frameworks
-- **Languages**:  
-  ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  
-- **Frameworks & Libraries**:  
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+Languages:
 
-### Tools & Platforms
-- **Mobile Development**: Android Studio, Xcode
-- **Version Control**: Git, GitHub
-- **API Development**: RESTful APIs, Postman
-- **Project Management**: Trello, Jira
-- **Design Tools**: Figma, Adobe XD
+Frameworks & Libraries:
 
----
+Tools & Platforms
 
-## 🛠️ Featured Projects
+Mobile Development: Android Studio, Xcode, VScode
 
-### 1. [📱 School Management System](https://github.com/your-repo/school-management-system)
-A fully-featured **School Management System** built using Flutter. The app simplifies administrative tasks for schools by managing student records, attendance, grades, and scheduling. It also provides separate interfaces for administrators, teachers, students, and parents.
+Version Control: Git, GitHub
 
-- **Technologies**: Flutter, REST APIs, Admin Dashboard (React)
-- **Features**: Attendance tracking, gradebook, student performance reports, and more.
+API Development: RESTful APIs, Postman
 
-### 2. [🛒 E-commerce Mobile App](https://github.com/your-repo/ecommerce-app)
-A sleek and intuitive e-commerce app built with **Flutter**. The app includes user authentication, a shopping cart, product listings, and order tracking.
+Project Management: Trello, Jira
 
-- **Technologies**: Flutter, Node.js, Firebase
-- **Features**: Secure login, payment integration, order management.
+Design Tools: Figma, Adobe XD
 
-### 3. [📊 Expense Tracker](https://github.com/your-repo/expense-tracker)
+🛠️ Featured Projects
+
+1. 📱 School Management System
+
+A fully-featured School Management System built using Flutter. The app simplifies administrative tasks for schools by managing student records, attendance, grades, and scheduling. It also provides separate interfaces for administrators, teachers, students, and parents.
+
+Technologies: Flutter, REST APIs, Admin Dashboard (React)
+
+Features: Attendance tracking, gradebook, student performance reports, and more.
+
+2. 🛒 E-commerce Mobile App
+
+A sleek and intuitive e-commerce app built with Flutter. The app includes user authentication, a shopping cart, product listings, and order tracking.
+
+Technologies: Flutter, Node.js, Firebase
+
+Features: Secure login, payment integration, order management.
+
+3. 📊 Expense Tracker
+
 A personal finance management app that helps users track their daily expenses and savings. The app includes detailed charts and statistics to give users insights into their spending habits.
 
-- **Technologies**: Flutter, SQLite
-- **Features**: Add, categorize, and view expenses; generates monthly reports.
+Technologies: Flutter, SQLite, Hive, Firebase
 
----
+Features: Add, categorize, and view expenses; generates monthly reports.
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
-![Muhammad Khabab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadkhabab&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadkhabab&layout=compact&theme=radical)
 
----
 
-## 🌐 Connect with Me
+
+🏆 Achievements & Certifications
+
+Flutter Developer - Google(Certification in Flutter app development)
+
+Promot Engineering - Coursera (Course Era)(Comprehensive certification on engineering promotion techniques)
+
+Project Management - Coursera (Google)(Project management fundamentals and advanced techniques by Google)
+
+Generative AI - Coursera(Understanding the application and development of AI-driven systems)
+
+App Development - KPITB (Khyber Pakhtunkhwa Information Technology Board)(Training in cross-platform app development using Flutter and other tools)
+
+🌐 Connect with Me
 
 I’m always open to exciting opportunities and collaborations. Feel free to reach out if you want to connect or work together on a project!
 
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923119969859)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-khabab)
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/https://www.facebook.com/khabab.khattak)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/khubii_khattak)
 
----
 
-## 📬 How to Reach Me
 
-- **Email**: [muhammad.khabab.official@gmail.com](muhammad.khabab.official@gmail.com)
-- **LinkedIn**: [https://linkedin.com/in/https://www.linkedin.com/in/muhammad-khabab](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-khabab)
 
----
 
-Here is your updated **Achievements & Certifications** section, formatted and ready to be added to your GitHub README file:
 
----
 
-## 🏆 Achievements & Certifications
 
-- **Flutter Developer** - Google  
-  _(Certification in Flutter app development)_
+📬 How to Reach Me
 
-- **Promot Engineering** - Coursera (Course Era)  
-  _(Comprehensive certification on engineering promotion techniques)_
+Email: muhammad.khabab.official@gmail.com
 
-- **Project Management** - Coursera (Google)  
-  _(Project management fundamentals and advanced techniques by Google)_
+LinkedIn: https://linkedin.com/in/muhammad-khabab
 
-- **Generative AI** - Coursera  
-  _(Understanding the application and development of AI-driven systems)_
+🤝 Collaborate with Me
 
-- **App Development** - KPITB (Khyber Pakhtunkhwa Information Technology Board)  
-  _(Training in cross-platform app development using Flutter and other tools)_
+I’m always looking to collaborate on interesting projects, particularly in Flutter app development and AI Applications. Whether you're building an app from scratch, need help with API integration, or require assistance in app design, I’m happy to collaborate.
 
----
+🎨 Fun Fact for Programmers
 
-## 🤝 Collaborate with Me
-
-I’m always looking to collaborate on interesting projects, particularly in **Flutter app development** and **AI Applications**  . Whether you're building an app from scratch, need help with API integration, or require assistance in app design, I’m happy to collaborate.
-
----
-
-## 🎨 Fun Fact for Programmers
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Gif" width="400" height="250"/>
-</p>
-
----
-
-<!---
-Muhammadkhabab/Muhammadkhabab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-### Final Notes
+Final Notes
 
 If you need any help with Flutter projects or just want to chat about tech, don’t hesitate to reach out. Let’s build something great together!
-
----
