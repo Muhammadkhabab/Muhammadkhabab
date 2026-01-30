@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/khababkhattak2" target="blank"><img src="https://img.shields.io/twitter/follow/khababkhattak2?logo=twitter&style=for-the-badge" alt="khababkhattak2" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Nodejs,AI**
-
-- 💬 Ask me about **Flutter,Nodejs,AI**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **muhammad.khabab.official@gmail.com**
 
